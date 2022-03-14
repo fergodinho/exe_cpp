@@ -16,4 +16,4 @@ Elaborar um programa com um MENU com as seguintes opções:
 09. Surpresinha para a Professora
 
 ### <li> Considerações:</li>
-<p> Disponibilizo cada um dos itens do menu separados e também o arquivo completo do programa com menu em funcionamento. </p>
+<p> Disponibilizo cada um dos itens do menu separados, o esqueleto para resolução e também o arquivo completo do programa com menu em funcionamento. </p>
